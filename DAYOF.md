@@ -30,4 +30,4 @@ Please refer to our [code of conduct](http://techretreat.ca/code.html). Do give 
 - If there is suspicious activity, including theft, presence of unauthorized persons, unusual
 occurrences, property damage, or other, report to an organizer immediately
 
-- General mentoring questions should be directed to Yu Chen (yuchen.hou on Slack)
+- General mentoring questions should be directed to Yu Chen on Slack
