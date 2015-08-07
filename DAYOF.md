@@ -1,6 +1,6 @@
-## Instruction for Mentors
+# Instructions for Mentors
 
-# Event details
+## Event details
 
 - <b>E5, University of Waterloo. August 15th.</b>
 - We wrote some guides on how to get here. They can be found [here](https://github.com/TechRetreat/mentors/getting_there).
@@ -14,11 +14,11 @@ In the morning/evening we may need your help shuttling people between E5 (our ha
 
 Then for the rest of the day, you will either be mentoring for the learnathon or hackathon (we’re keeping things fluid, so you can move around if you want). You will be given an awesome #FF0000  shirt and nametag so students can identify you!
 
-For Hackathon, you are free to roam around the room and help out students in need, but we'll set up an area where mentors isle can stay so hackers can just go there for help.
+For Hackathon, you are free to roam around the room and help out students in need, but we'll set up an area where mentors can stay so hackers can just go there for help.
 
 For Learnathon, we will have organizers covering teaching, and mentors are welcome to help out with the whole process and take an active role in making the event awesome for everyone!
 
-# Conduct
+## Conduct
 
 Please refer to our [code of conduct](http://techretreat.ca/code.html). Do give it a read!
 
@@ -30,3 +30,5 @@ Please refer to our [code of conduct](http://techretreat.ca/code.html). Do give 
 
 - If there is suspicious activity, including theft, presence of unauthorized persons, unusual
 occurrences, property damage, or other, report to an organizer immediately
+
+- General mentoring questions should be directed to Yu Chen on Slack
