@@ -2,7 +2,8 @@
 
 # Event details
 
-- <b>E5, University of Waterloo. August 15th. </b>
+- <b>E5, University of Waterloo. August 15th.</b>
+- We wrote some guides on how to get here. They can be found [here](https://github.com/TechRetreat/mentors/getting_there).
 - Preferably come at 7h15am if possible. 
 
 You can drop off your stuff there and we will head to M3 together for the opening ceremony a bit later. 
