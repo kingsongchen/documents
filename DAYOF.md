@@ -13,7 +13,7 @@ In the morning/evening we may need your help shuttling people between E5 (our ha
 
 Then for the rest of the day, you will either be mentoring for the learnathon or hackathon (we’re keeping things fluid, so you can move around if you want). You will be given an awesome #FF0000  shirt and nametag so students can identify you!
 
-For Hackathon, you are free to roam around the room and help out students in need, but we'll set up an area where mentors isle can stay so hackers can just go there for help.
+For Hackathon, you are free to roam around the room and help out students in need, but we'll set up an area where mentors can stay so hackers can just go there for help.
 
 For Learnathon, we will have organizers covering teaching, and mentors are welcome to help out with the whole process and take an active role in making the event awesome for everyone!
 
