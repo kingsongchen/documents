@@ -26,7 +26,7 @@ Please refer to our [code of conduct](http://techretreat.ca/code.html). Do give 
 
 - Aside from participants, ensure no photos or videos are being taken; Tech Retreat has a dedicated team for media
 
-- In the case of a medical emergency, immediately report to someone who is trained in CPR (among the volunteers, this includes Cotapher; among the organizers, this includes Deon, Tammy, Steven, Cora)
+- In the case of a medical emergency, immediately report to someone who is trained in CPR (among the volunteers, this includes Cotapher; among the organizers, this includes Deon, Tammy, Steven, Cora). There will also be a first aid kit kept at the registration desk in M3 and at the help desk in E5.
 
 - If there is suspicious activity, including theft, presence of unauthorized persons, unusual
 occurrences, property damage, or other, report to an organizer immediately
