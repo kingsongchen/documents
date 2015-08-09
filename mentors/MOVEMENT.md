@@ -23,3 +23,12 @@ After the Hackathon Project Showcase (learnathon participants are invited to wat
 Once everyone has returned, we will move that group of people over to the M3 atrium for dinner, and the Closing Ceremonies.
 
 Any questions about the process? Ask Deon or Cora on slack! :)
+
+## Route
+Walk along Math Road (the road between MC and M3, with Plant Ops) east towards Engineering 5 and Ring Road.
+Then walk south along Ring Road towards Engineering 5 and enter in the front to the second floor.
+
+### Rain Plan
+If it happens to rain, walk up to the third floor of M3 to the bridge between MC and DC, turn towards DC, continue on the third floor of DC until
+you hit the corridor towards E3's first floor. From there, go to the staircase/elevator that will bring you to E5 and cross to E5 via the bridge
+which will leave you on the third floor. 
