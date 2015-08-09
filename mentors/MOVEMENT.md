@@ -18,7 +18,7 @@ To make moving Hackathon participants over, we'll move them in groups of 10 at a
 
 General volunteers will be wrapping up registration or will be in E5. Any remaining volunteers will help move Hackathon participants over. 
 
-## 2. E5 to M3
+## 2. E5 to M3 (around 7:20 PM)
 After the Hackathon Project Showcase (learnathon participants are invited to watch), all participants will return to their original rooms (E5 2004/3052/LiveLink).
 Once everyone has returned, we will move that group of people over to the M3 atrium for dinner, and the Closing Ceremonies.
 
