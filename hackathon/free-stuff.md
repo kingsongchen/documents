@@ -11,11 +11,14 @@ GitHub has a student pack that gives you a lot of free credits and services.
 ### Twilio
 Twilio will provide free credits for its service. More to come on the day of the event!
 
-### Namescheap
+### Namecheap
 Free .me domains for students.
 [Link](https://nc.me/)
 
 ###Hackathon starters
 Hackathon Starter kits can help you save time starting up a web project. Check them out!
-[NodejS](https://github.com/sahat/hackathon-starter)
+[NodeJS](https://github.com/sahat/hackathon-starter)
 [Django](https://github.com/DrkSephy/django-hackathon-starter)
+
+### Google Cloud Platform
+$300 in free credits for a 60 day trial period. [link](https://cloud.google.com/free-trial/)
