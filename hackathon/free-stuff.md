@@ -1,4 +1,4 @@
-#Useful ressources
+#Useful resources
 
 ### Amazon AWS Credits
 Get 100$ in credits for hackathon participants
