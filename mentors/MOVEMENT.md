@@ -14,7 +14,7 @@ After the Opening Ceremonies, an announcement will be made for the participants 
 Hardware Learnathon mentors will move the Hardware Learnathon participants over to E5 3052.
 
 Software Learnathon mentors will split between the Software Learnathon participants (going to E5 2004) and the Hackathon participants (going to E5 LiveLink).
-To make moving Hackathon participants over, we'll move them in groups of 10 at a time. 
+To make moving Software Learnathon and Hackathon participants over easier, one or two mentors/volunteers will move them in groups of 10 at a time. 
 
 General volunteers will be wrapping up registration or will be in E5. Any remaining volunteers will help move Hackathon participants over. 
 
