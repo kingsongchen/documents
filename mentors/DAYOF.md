@@ -2,7 +2,7 @@
 
 ## Event details
 
-- <b>E5, University of Waterloo. August 15th.</b>
+- <b>E5 room 2007, University of Waterloo. August 15th.</b>
 - We wrote some guides on how to get here. They can be found [here](https://github.com/TechRetreat/documents/tree/master/getting_there).
 - Preferably come at 7h15am if possible. 
 
