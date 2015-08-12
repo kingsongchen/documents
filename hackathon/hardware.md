@@ -10,7 +10,7 @@ Please send a group member with Government ID (we'll hang onto this until you re
 Hardware will be returned at Mathematics 3.
 
 ## List of Hardware
-* Intel Edison
+* Intel Edison (with expansion board and documentation)*
 * Thalmic Labs Myo
 * 1 Muse
 * 1 Pebble Watch
@@ -18,3 +18,6 @@ Hardware will be returned at Mathematics 3.
 * 1 Leap Motion
 * 1 Google Glass
 * 2 Oculus Rift Development Kits
+
+### Intel Edison
+Intel will also have a bunch of Grove components down at their sponsor table in the E5 Aecon Atrium, so give them a visit once you have your Edison working!
