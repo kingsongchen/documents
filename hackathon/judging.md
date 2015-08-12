@@ -7,7 +7,8 @@ The judges will be focusing more on the technical side of your project, rather t
 
 After all the projects have been presented, each team of judges will come up with a list of their top 3 teams. 
 The combined total of 6 teams will present to everyone, and the entire panel of 6 judges, at the closing ceremonies. 
-Afte all teams have presented, the panel of 6 judges will determine the top 3 teams.
+
+After all teams have presented, the panel of 6 judges will determine the top 3 teams.
 
 API Prizes will be judged and presented by the Sponsor awarding it.
 
